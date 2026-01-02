@@ -157,3 +157,29 @@ void hourglassPattern(int n) {
         printf("\n");
     }
 }
+// output :
+//         PATTERN LOGIC TOOL 
+// ====================================
+// 1. Increasing Number Triangle
+// 2. Same Number Triangle
+// 3. Reverse Number Triangle
+// 4. Inverted Number Triangle
+// 5. Continuous Number Pattern
+// 6. Odd Number Pattern
+// 7. Right Aligned Number Triangle
+// 8. Rectangle Number Pattern
+// 9. Diamond Number Pattern
+// 10. Hourglass Number Pattern
+// ====================================
+// Enter your choice: 9
+// Enter number of rows: 5
+//     1 
+//    1 2 
+//   1 2 3 
+//  1 2 3 4
+// 1 2 3 4 5
+//  1 2 3 4 
+//   1 2 3 
+//    1 2 
+//     1
+// 
